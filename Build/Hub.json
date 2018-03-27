@@ -1,9 +1,13 @@
 {
-"TOTAL_MEMORY": 402653184,
+"companyName": "DefaultCompany",
+"productName": "CombatFramework_v37_u2017_3",
 "dataUrl": "Hub.data.unityweb",
 "asmCodeUrl": "Hub.asm.code.unityweb",
 "asmMemoryUrl": "Hub.asm.memory.unityweb",
 "asmFrameworkUrl": "Hub.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
